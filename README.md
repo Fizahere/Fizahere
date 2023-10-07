@@ -57,5 +57,5 @@ const fiza = {
 
 <a href="https://github.com/Fizahere">
   <img height="180em" style="max-width:45%;" src="https://github-readme-stats.vercel.app/api?username=Fizahere&theme=buefy&show_icons=true" />
-  <img height="180em" style="max-width:45%;margin: 0 0 7px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizahere&theme=buefy&layout=compact&hide=html,css,hack,ags%20script" />
+  <img height="180em" style="max-width:45%;margin: 0 0 7px 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizahere&theme=buefy&layout=compact" />
 </a>
