@@ -1,18 +1,4 @@
-## Hi there, I'm [Shehzad Ahmed][website] ![](https://github.com/egonelbre/gophers/blob/master/animation/2bit-sprite/run.gif)
-
-### I'm a Software Engineer and Entrepreneur!
-- Currently working as a Software Engineer at Koderlabs
-- In my spare time, I assist startup in product development and work on my own product ideas
-- I specialize in MERN Stack projects, but also have proficient skills in PHP and MySQL.
-
-<p><a target="_blank" href="https://www.upwork.com/freelancers/shehzadahmed43"><img src="https://img.shields.io/badge/Hire%20me%20for%20your%20next%20project%20on%20upwork-%108a00.svg?&style=for-the-badge&logo=upwork&logoColor=white" height=25></a>
-<a target="_blank" href="https://shehzadahmed.tech/resume.pdf"><img src="https://img.shields.io/badge/Download%20My%20Resume-78b3df?style=for-the-badge" height=25></a>
-</p>
-
-
-### Or you may want to [checkout my gists][gist]
-
-### About Me
+## Hi there, I'm Fiza
 
 ```javascript
 const fiza = {
