@@ -3,7 +3,7 @@
 ```javascript
 const fiza = {
     pronouns: "She" | "Her",
-    code: ["javascript", "react js", 'php', "python"],
+    code: ["javascript", "react js", "php",".Net"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
