@@ -8,7 +8,7 @@ const fiza = {
     technologies: {
         frontEnd: {
             js: ["react", "react query"],
-            css: ["bootstrap", "chakra ui", "tailwind"]
+            css: ["bootstrap", "tailwind"]
         },
         backEnd: {
             php: ["core"]
