@@ -3,12 +3,12 @@
 ```javascript
 const fiza = {
     pronouns: "She" | "Her",
-    code: ["javascript", "react js", "php",".Net"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    code: ["javascript", "react js"],
+    askMeAbout: ["web dev", "tech"],
     technologies: {
         frontEnd: {
-            js: ["react", "jquery"],
-            css: ["bootstrap", "tailwind"]
+            js: ["react", "react query"],
+            css: ["bootstrap", "chakra ui", "tailwind"]
         },
         backEnd: {
             php: ["core"]
