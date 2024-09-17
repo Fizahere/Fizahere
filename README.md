@@ -11,9 +11,11 @@ const fiza = {
             css: ["bootstrap", "tailwind"]
         },
         backEnd: {
-            php: ["core"]
+            php: ["core"],
+js:["node.js","express.js"]
+
         },
-        databases: ["MySql", "mssql"],
+        databases: ["MySql", "mssql","mongodb"],
     },
     architecture: ["Progressive web applications", "Single page applications"],
     motto: "Trying to make world a better place with innovative software solutions"
