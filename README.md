@@ -12,7 +12,7 @@ const fiza = {
         },
         backEnd: {
             php: ["core"],
-js:["node.js","express.js"]
+            js:["node.js","express.js"]
 
         },
         databases: ["MySql", "mssql","mongodb"],
