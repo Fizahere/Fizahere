@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f5426599-1937-4343-98b3-613a63b665d9)![image](https://github.com/user-attachments/assets/d7364c50-2c45-45dc-a020-b69f397555c8)## Hi there, I'm Fiza
+## Hi there, I'm Fiza
 
 ```javascript
 const fiza = {
