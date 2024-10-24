@@ -8,14 +8,14 @@ const fiza = {
     technologies: {
         frontEnd: {
             js: ["react", "react query"],
-            css: ["bootstrap", "tailwind"]
+            css: ["bootstrap", "tailwind","chakra ui"]
         },
         backEnd: {
             php: ["core"],
-            js:["node.js","express.js"]
+            js:["bun.js","node.js","express.js"]
 
         },
-        databases: ["MySql", "mssql","mongodb"],
+        databases: ["MySql", "mssql","mongodb","firebase"],
     },
     architecture: ["Progressive web applications", "Single page applications"],
     motto: "Trying to make world a better place with innovative software solutions"
